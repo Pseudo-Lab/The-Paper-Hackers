@@ -48,8 +48,8 @@
 
 | 역할          | 이름 |  기술 스택 배지                                                                 | 주요 관심 분야                          |
 |---------------|------|-----------------------------------------------------------------------|----------------------------------------|
-| **Project Manager** | [박수형](https://github.com/Coding-Child) | ![Python](https://img.shields.io/badge/Python-Expert-3776AB) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C) ![TensorFlow](https://img.shields.io/badge/Tensorflow-EE4C2C) ![Static Badge](https://img.shields.io/badge/LangChain-1C3C3C) ![Static Badge](https://img.shields.io/badge/Transformers-%23ffd21e)| Information Extraction & Retriever|
-| Member | [황윤희](https://www.linkedin.com/in/meuni/) | ![Python](https://img.shields.io/badge/Python-Expert-3776AB) ![Static Badge](https://img.shields.io/badge/React-%234AD5FF) ![Static Badge](https://img.shields.io/badge/React%20Native-%234AD5FF) | LLM / RAG / MultiAgent |
+| **Project Builder** | [박수형](https://github.com/Coding-Child) | ![Python](https://img.shields.io/badge/Python-Expert-3776AB) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C) ![TensorFlow](https://img.shields.io/badge/Tensorflow-EE4C2C) ![Static Badge](https://img.shields.io/badge/LangChain-1C3C3C) ![Static Badge](https://img.shields.io/badge/Transformers-%23ffd21e)| Information Extraction & Retriever|
+| **Project Manager** | [황윤희](https://www.linkedin.com/in/meuni/) | ![Python](https://img.shields.io/badge/Python-Expert-3776AB) ![Static Badge](https://img.shields.io/badge/React-%234AD5FF) ![Static Badge](https://img.shields.io/badge/React%20Native-%234AD5FF) | LLM / RAG / MultiAgent |
 
 
 ## 🚀 프로젝트 로드맵 (Project Roadmap)
