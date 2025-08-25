@@ -18,7 +18,7 @@
 
 > Welcome to The Paper Hackers repository! We aim to create a personalized paper reading assistant that understands researchers' background knowledge and research directions, offering tools for context-aware paper analysis, step-by-step understanding, and research idea generation. Join us in revolutionizing how researchers read and understand academic papers through AI-powered innovation!
 
-<img width="1536" height="1024" alt="the_paper-hackers" src="https://github.com/user-attachments/assets/47a3bf77-1b90-488b-9117-464714b99611" />
+<img width="1536" height="1024" alt="the-paper-hackers" src="https://github.com/user-attachments/assets/fc250da6-784f-4e13-a9b4-2607beb96a6d" />
 
 🚀 **The Paper Hackers** — 연구자의 배경지식과 연구 방향을 이해하는 개인화된 논문 리딩 어시스턴트
 “논문 읽기의 새로운 패러다임을 제시하며, 연구자 중심의 AI 어시스턴트 개발”
