@@ -1,6 +1,6 @@
-# 10th-template
+# The Paper Hackers
 
-<h1 align="center"> 10th Template </h1>
+<h1 align="center"> The Paper Hackers </h1>
 
 <div align="center">
 <a href="https://pseudo-lab.com"><img src="https://img.shields.io/badge/PseudoLab-S10-3776AB" alt="PseudoLab"/></a>
